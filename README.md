@@ -1,6 +1,6 @@
 # TranscribeIt - AI-Powered Speech-to-Text with Entity Recognition
 
-TranscribeIt is an open-source project that simplifies the process of converting spoken language into text while offering advanced features for enhancing the user experience. With TranscribeIt, you can effortlessly register or log in, upload audio and video files in various formats (such as .wav, .mp3, and .mp4), and receive highly accurate transcriptions in real-time using the cutting-edge OpenAI Whisper model.
+TranscribeIt is an open-source project built using Django, HTML, CSS, and JavaScript. It simplifies the process of converting spoken language into text while offering advanced features for enhancing the user experience. With TranscribeIt, you can effortlessly register or log in, upload audio and video files in various formats (such as .wav, .mp3, and .mp4), and receive highly accurate transcriptions using the cutting-edge OpenAI Whisper model.
 
 ## Key Features
 
@@ -20,8 +20,7 @@ TranscribeIt is an open-source project that simplifies the process of converting
 
 1. Clone this repository to your local machine.
 2. Install the required dependencies (provide instructions or a link to a separate installation guide if necessary).
-3. Set up your API keys for OpenAI's Whisper model (include instructions or a link to a guide).
-4. Run the application and start transcribing!
+3. Run the application and start transcribing!
 
 TranscribeIt empowers users to effortlessly convert spoken content into written text while adding a layer of intelligence through entity recognition. Whether you're a journalist, content creator, researcher, or simply need a convenient way to transcribe conversations, TranscribeIt is your go-to tool.
 
