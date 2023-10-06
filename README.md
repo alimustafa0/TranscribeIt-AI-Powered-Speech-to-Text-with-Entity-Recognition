@@ -29,7 +29,7 @@ Join us in revolutionizing the way we interact with spoken content and unlock ne
 
 ## Contributing
 
-We welcome contributions from the community! If you'd like to contribute to TranscribeIt, please follow our [contribution guidelines](CONTRIBUTING.md).
+We welcome contributions from the community!
 
 ## License
 
